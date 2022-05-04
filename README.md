@@ -3,14 +3,14 @@
 ![](https://komarev.com/ghpvc/?username=abedinsherifi)
 
 <p align="center">
-  <a href="https://github.com/prespafree1/Deep_Learning_Notes">
-    <img alt="GitHub stars" src="https://img.shields.io/github/stars/prespafree1/Deep_Learning_Notes.svg">
+  <a href="https://github.com/abedinsherifi/Deep_Learning_Notes">
+    <img alt="GitHub stars" src="https://img.shields.io/github/stars/abedinsherifi/Deep_Learning_Notes.svg">
   </a>
-  <a href="https://github.com/prespafree1/Deep_Learning_Notes">
-    <img alt="GitHub forks" src="https://img.shields.io/github/forks/prespafree1/Deep_Learning_Notes.svg">
+  <a href="https://github.com/abedinsherifi/Deep_Learning_Notes">
+    <img alt="GitHub forks" src="https://img.shields.io/github/forks/abedinsherifi/Deep_Learning_Notes.svg">
   </a>
-    <a href="https://github.com/prespafree1/Deep_Learning_Notes/graphs/contributors" alt="Contributors">
-        <img src="https://img.shields.io/github/contributors/prespafree1/Deep_Learning_Notes" /></a>
+    <a href="https://github.com/abedinsherifi/Deep_Learning_Notes/graphs/contributors" alt="Contributors">
+        <img src="https://img.shields.io/github/contributors/abedinsherifi/Deep_Learning_Notes" /></a>
 </p>
 
 # Learning Affordance for Direct Perception in Autonomous Driving by Chenyi Chen, et al
